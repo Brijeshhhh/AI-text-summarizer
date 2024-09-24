@@ -82,8 +82,4 @@ This application allows users to input text and generate AI-powered summaries. T
 
 ---
 
-Feel free to contribute or raise issues via the repository. Happy coding!
-
----
-
 This `README.md` file provides a detailed explanation of the project and contributed by @Brijeshhhh
